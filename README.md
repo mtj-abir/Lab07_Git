@@ -1,4 +1,4 @@
-# Temperature Converter - Main Version
+# Temperature Converter - Final Version
 
 ## Purpose
 Converts a temperature from Celsius to Fahrenheit and Kelvin.
